@@ -1,7 +1,7 @@
 # Flask_api_getCard13
 
 
-Compile to EXE by pythoninstaller # for Windows10 and Windows11
+# Compile to .EXE by pyinstaller for Windows10 and Windows11
 
 
 Create by python 3.11.4
