@@ -11,11 +11,11 @@ Use Library
 Ref
 
 
-bouroo/thai-id-card.py
+-bouroo/thai-id-card.py
 https://gist.github.com/bouroo/8b34daf5b7deed57ea54819ff7aeef6e
 
 
-ThaiNationalIDCard
+-ThaiNationalIDCard
 https://github.com/chakphanu/ThaiNationalIDCard/blob/master/APDU.md
 
 
